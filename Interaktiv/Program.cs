@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Användernamn:");
+string name = Console.ReadLine();
+
+if (name == "Haroon") 
+{
+    Console.WriteLine("Välkommen!");
+
+}
+else
+{
+    Console.WriteLine("Fuck off");
+}
+
+
+Console.ReadLine();
