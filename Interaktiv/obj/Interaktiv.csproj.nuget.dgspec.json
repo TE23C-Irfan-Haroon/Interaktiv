@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {}
+    "C:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {}
   },
   "projects": {
-    "c:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {
+    "C:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
+        "projectUniqueName": "C:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
         "projectName": "Interaktiv",
-        "projectPath": "c:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
+        "projectPath": "C:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\Interaktiv.csproj",
         "packagesPath": "C:\\Users\\haroon.irfan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\obj\\",
+        "outputPath": "C:\\Users\\haroon.irfan\\Documents\\programering 1\\Interaktiv\\Interaktiv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
